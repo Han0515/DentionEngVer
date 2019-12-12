@@ -7,7 +7,6 @@ public class IntelligenceOfficer {
 	
 	public IntelligenceOfficer(String att, String desc) {
 		// TODO Auto-generated constructor stub
-
 		officer_att = att;
 		description = desc;
 	}
